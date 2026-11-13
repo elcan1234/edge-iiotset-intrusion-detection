@@ -1,0 +1,10 @@
+# Proje kodları ve mevcut Anaconda ortamı ile uyumlu sürümleri kontrol edin.
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+joblib
+xgboost>=3.4
+jupyterlab
