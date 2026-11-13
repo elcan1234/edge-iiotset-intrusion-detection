@@ -1,0 +1,5 @@
+Model,Accuracy (%),Attack Precision (%),Attack Recall (%),Attack F1 (%),Normal Recall (%),Kaçırılan Saldırı,Yanlış Alarm
+Logistic Regression,99.97,99.93,100.0,99.96,99.94,0,27
+Decision Tree,99.99,99.98,100.0,99.99,99.99,0,6
+Random Forest,100.0,99.99,100.0,100.0,99.99,0,3
+XGBoost,99.98,99.97,100.0,99.98,99.97,1,11

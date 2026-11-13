@@ -1,0 +1,3 @@
+﻿Test Grubu,Kayıt Sayısı,RF İkili Doğruluk (%),XGBoost 15 Sınıf Doğruluk (%)
+Eşleşen,26169,99.9885,99.5262
+Eşleşmeyen,53830,100.0,99.3257
